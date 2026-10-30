@@ -1,4 +1,4 @@
-# Saat — Bölüm 1: Üç Dakika
+# Dijital Nabız — Bölüm 1: Üç Dakika
 **Başlık, Açıklama ve Oylama Paketi · Son Sığınak (@sonsiginak)**
 
 ## 1. YouTube Shorts Başlığı
@@ -15,15 +15,15 @@ Instagram / TikTok açıklamasının ilk satırı için (başlık yerine geçer)
 ```
 Zamanın para olduğu bir şehirde yirmi beşinde yaşlanma durur, kolunuzda bir saat başlar; sıfıra inerse kalbiniz durur. Uyandığınızda üç gününüz gitmiş, üç dakikanız kalmış. Zamanınızı alan kardeşiniz… ve dönmedi.
 
-Saat, 1. bölüm: Üç Dakika. İnteraktif gerilim animasyon dizisi. Zamana Karşı (In Time) filminin fikrinden esinlenildi; hikâye özgündür.
+Dijital Nabız, 1. bölüm: Üç Dakika. İnteraktif gerilim animasyon dizisi. Zamana Karşı (In Time) filminin fikrinden esinlenildi; hikâye özgündür.
 1 mi, 2 mi? Yorumlara yazın 👇 Çoğunluğun seçimi Bölüm 2'de.
 2. bölüm için abone olun: @sonsiginak
 
-#saat #zamanakarşı #animasyon #gerilim #shorts
+#dijitalnabız #zamanakarşı #animasyon #gerilim #shorts
 ```
 
 ## 3. YouTube Etiketleri (Tags)
-gerilim, animasyon, türkçe animasyon, interaktif hikaye, seçimli hikaye, sen seç, bilim kurgu, distopya, zaman para, zamana karşı, in time, koldaki sayaç, son 3 dakika, tefeci, kardeş, yağmurlu şehir, neon şehir, son sığınak, saat dizisi, saat bölüm 1
+gerilim, animasyon, türkçe animasyon, interaktif hikaye, seçimli hikaye, sen seç, bilim kurgu, distopya, zaman para, zamana karşı, in time, koldaki sayaç, son 3 dakika, tefeci, kardeş, yağmurlu şehir, neon şehir, son sığınak, dijital nabız, dijital nabız bölüm 1
 
 ## 4. Instagram Reels Caption
 ```
@@ -36,20 +36,20 @@ Köşede tefeci bekliyor. Karşı durakta, kolunda altmış yıl olan biri uyuyo
 
 1 · Tefeciye gidin 🤝   2 · Uyuyandan alın ⌚
 Yorumlara yazın, çoğunluğun seçimi Bölüm 2'de!
-Saat · Bölüm 1 | İnteraktif gerilim animasyon dizisi
+Dijital Nabız · Bölüm 1 | İnteraktif gerilim animasyon dizisi
 2. bölüm için takip edin: @sonsiginak
 
-#saat #zamanakarşı #animasyon #gerilim #sonsiginak
+#dijitalnabız #zamanakarşı #animasyon #gerilim #sonsiginak
 ```
 
 **TikTok için kısa hâli:**
 ```
-Saat · Bölüm 1 ⏳ Kolunuzda 30 saniye kaldı. Tefeciye mi gidersiniz, uyuyandan mı alırsınız? 1 mi 2 mi? 👇 Çoğunluğun seçimi Bölüm 2'de!
-#saat #zamanakarşı #animasyon #gerilim #sonsiginak
+Dijital Nabız · Bölüm 1 ⏳ Kolunuzda 30 saniye kaldı. Tefeciye mi gidersiniz, uyuyandan mı alırsınız? 1 mi 2 mi? 👇 Çoğunluğun seçimi Bölüm 2'de!
+#dijitalnabız #zamanakarşı #animasyon #gerilim #sonsiginak
 ```
 
 ## 5. Instagram Hashtag Grubu
-#saat #zamanakarşı #animasyon #gerilim #sonsiginak
+#dijitalnabız #zamanakarşı #animasyon #gerilim #sonsiginak
 
 ## 6. Ana Anahtar Kelimeler (SEO)
 - zamanın para olduğu dünya
@@ -68,7 +68,7 @@ Bu klasördeki `01-saat-bolum-1-kapak.png` animasyon tarzında ve bu bölüme ö
 
 | Öğe | Metin |
 |---|---|
-| Rozet | "SAAT · BÖLÜM 1" |
+| Rozet | "DİJİTAL NABIZ · BÖLÜM 1" |
 | Başlık | "ÜÇ DAKİKANIZ VAR" |
 | Alt satır | "Kardeşiniz zamanınızı aldı. Dönmedi." |
 | Vurgu rengi | Alarm kırmızısı (DAKİKANIZ) |

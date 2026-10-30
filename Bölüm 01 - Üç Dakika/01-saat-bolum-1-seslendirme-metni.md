@@ -1,4 +1,4 @@
-# Saat — Bölüm 1: Üç Dakika
+# Dijital Nabız — Bölüm 1: Üç Dakika
 **Seslendirme Metni (ElevenLabs) · Son Sığınak**
 
 > Kaydı bu klasöre **`seslendirme.mp3`** adıyla koy. Konuşmacı etiketlerini ve parantez içindeki ton notlarını ElevenLabs'e yapıştırma. Seçim ekranındaki yazılar seslendirilmez. Yapıştırmaya hazır, ses etiketli sürüm en altta.

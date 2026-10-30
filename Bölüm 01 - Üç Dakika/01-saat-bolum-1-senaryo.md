@@ -1,4 +1,4 @@
-# Saat — Bölüm 1: Üç Dakika
+# Dijital Nabız — Bölüm 1: Üç Dakika
 **Sahne Sahne Senaryo · Son Sığınak (@sonsiginak)**
 
 > Zamanın para olduğu bir şehir. Yirmi beşinde yaşlanma durur ve kolda bir sayaç başlar; sayaç sıfıra inerse kalp durur.
