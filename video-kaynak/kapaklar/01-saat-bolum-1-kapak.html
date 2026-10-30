@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<title>Son Sığınak Kapak</title>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@500;700;800&display=swap" rel="stylesheet">
+<style>
+  /* Saat Bölüm 1 "Üç Dakika" kapağı. Arka plan: yağmurda kavşak, kırmızı yanan bileğini yüzüne kaldırmış SEN; solda tefecinin kapısı, sağda durak (video-kaynak/b1: node kapak.js 1 ...) */
+  :root { --vurgu: #ff4040; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 1080px; height: 1920px; overflow: hidden; background: #0b0a1c; }
+  .kapak {
+    position: relative; width: 1080px; height: 1920px; color: #fff; overflow: hidden; font-family: "Inter", sans-serif;
+    background:
+      linear-gradient(180deg, rgba(8,6,22,.88) 0%, rgba(8,6,22,.6) 26%, rgba(8,6,22,0) 44%, rgba(8,6,22,0) 80%, rgba(6,4,18,.8) 100%),
+      url("01-saat-bolum-1-arkaplan.jpg") center / cover no-repeat;
+  }
+  .marka { position: absolute; top: 300px; left: 0; right: 0; text-align: center; font-weight: 800; font-size: 32px; letter-spacing: 14px; opacity: .85; }
+  .rozet { position: absolute; top: 368px; left: 50%; transform: translateX(-50%); padding: 10px 26px; border: 3px solid #ffcf4a;
+    color: #ffcf4a; font-weight: 800; font-size: 28px; letter-spacing: 6px; white-space: nowrap; background: rgba(0,0,0,.35); }
+  .baslik { position: absolute; top: 470px; left: 40px; right: 40px; text-align: center; font-family: "Anton", sans-serif;
+    font-size: 166px; line-height: 1.18; text-transform: uppercase; text-shadow: 0 6px 30px rgba(0,0,0,.85); }   /* Ü ve İ noktaları üst satıra binmesin */
+  .baslik em { font-style: normal; color: var(--vurgu); text-shadow: 0 0 40px rgba(255,40,40,.65), 0 6px 30px rgba(0,0,0,.85); }
+  .alt { margin-top: 26px; font-family: "Inter", sans-serif; text-transform: none; font-size: 42px; font-weight: 700; line-height: 1.25; color: #eef0ff; }
+  .filigran { position: absolute; bottom: 330px; left: 0; right: 0; text-align: center; font-weight: 700; font-size: 40px; opacity: .72; letter-spacing: 2px;
+    text-shadow: 0 2px 10px rgba(0,0,0,.8); }
+</style>
+</head>
+<body>
+  <div class="kapak">
+    <div class="marka">SON SIĞINAK</div>
+    <div class="rozet">SAAT · BÖLÜM 1</div>
+    <h1 class="baslik">
+      Üç <em>Dakikanız</em> Var
+      <div class="alt">Kardeşiniz zamanınızı aldı. Dönmedi.</div>
+    </h1>
+    <div class="filigran">@sonsiginak</div>
+  </div>
+</body>
+</html>
