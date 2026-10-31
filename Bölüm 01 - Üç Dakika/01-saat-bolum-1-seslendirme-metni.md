@@ -1,5 +1,5 @@
 # Dijital Nabız — Bölüm 1: Üç Dakika
-**Seslendirme Metni (ElevenLabs) · Son Sığınak**
+**Seslendirme Metni (ElevenLabs) · Animasyon Sineması**
 
 > Kaydı bu klasöre **`seslendirme.mp3`** adıyla koy. Konuşmacı etiketlerini ve parantez içindeki ton notlarını ElevenLabs'e yapıştırma. Seçim ekranındaki yazılar seslendirilmez. Yapıştırmaya hazır, ses etiketli sürüm en altta.
 

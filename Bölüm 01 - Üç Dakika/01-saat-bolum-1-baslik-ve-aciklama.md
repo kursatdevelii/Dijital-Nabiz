@@ -1,11 +1,10 @@
 # Dijital Nabız — Bölüm 1: Üç Dakika
-**Başlık, Açıklama ve Oylama Paketi · Son Sığınak (@sonsiginak)**
+**Başlık, Açıklama ve Oylama Paketi · Animasyon Sineması (@animasyonsinemasiyt)**
 
 ## 1. YouTube Shorts Başlığı
 1. Uyandığında Kolunda Sadece 3 Dakika Kalmıştı ⏳ #Shorts  ← önerilen
 2. Bu Şehirde Para Yok, Zaman Var. Ve Seninki Bitiyor #Shorts
 3. Kardeşin Zamanını Çaldı… 30 Saniyen Var 😨 #Shorts
-4. 1 mi, 2 mi? Tefeci mi, Uyuyan Zengin mi? #Shorts
 
 Instagram / TikTok açıklamasının ilk satırı için (başlık yerine geçer):
 - "Dün gece üç gününüz vardı. Şimdi üç dakikanız var. ⏳"
@@ -13,17 +12,41 @@ Instagram / TikTok açıklamasının ilk satırı için (başlık yerine geçer)
 
 ## 2. YouTube Açıklaması
 ```
-Zamanın para olduğu bir şehirde yirmi beşinde yaşlanma durur, kolunuzda bir saat başlar; sıfıra inerse kalbiniz durur. Uyandığınızda üç gününüz gitmiş, üç dakikanız kalmış. Zamanınızı alan kardeşiniz… ve dönmedi.
+Dün gece üç gününüz vardı. Şimdi üç dakikanız var. Zamanın para olduğu bu şehirde koldaki sayaç sıfıra inerse kalbiniz durur. ⏳😨
 
-Dijital Nabız, 1. bölüm: Üç Dakika. İnteraktif gerilim animasyon dizisi. Zamana Karşı (In Time) filminin fikrinden esinlenildi; hikâye özgündür.
-1 mi, 2 mi? Yorumlara yazın 👇 Çoğunluğun seçimi Bölüm 2'de.
-2. bölüm için abone olun: @sonsiginak
+Bu şehirde para yok, zaman var. Yirmi beşinde yaşlanmayı bırakırsınız ve sol bileğinizin içinde, derinin altında bir sayaç yanar. Kahve dört dakika, kira iki gün; ücretler saatle ödenir. Alt Şehir'de insanlar gün gün yaşar. Sokağın sonundaki bankta birinin sayacı sıfıra iniyor, ışığı sönüyor ve eli gevşeyip kayıyor. Yanından geçenler durmuyor bile.
 
-#dijitalnabız #zamanakarşı #animasyon #gerilim #shorts
+Uyandığınızda bileğinizde kırmızı rakamlar yanıyor: 00:03:00. Bileğinizin çevresinde dört parmak şeklinde taze morluklar var. Uyurken biri bileğinizi kavramış ve zamanınızı çekmiş. Kardeşinizin yatağı boş. Masada, kahve kupasının altında aceleyle yazılmış bir not: "Abi, borcum vardı. Sana beş saat bıraktım. Altıda dönüp hepsini geri vereceğim." Duvar saati 08:57'yi gösteriyor. Dönmedi.
+
+İki dakikanız kaldı. Yağmurun altında sokağa fırlıyorsunuz. Herkesin kolunda birkaç saat var ama kırmızı bileğinizi gören herkes kolunu saklıyor; kimse durmuyor. Köşede tefecinin kırmızı neonu yanıyor: ZAMAN VERİLİR. Kardeşinizin borçlu olduğu adam kapı eşiğinde gülümsüyor: "Bir gün veririm. Yarın iki gün alırım. Kardeşin de böyle başlamıştı."
+
+Ama karşı durakta biri uyuyor: Yukarı Şehir'den gelmiş, beyaz paltolu bir adam. Bankın kenarından sarkan kolunda yemyeşil rakamlar yanıyor: altmış yıl. Tefeci sizi borca bağlar. Uyuyandan alırsanız, size yapılanı ona yaparsınız. Üstelik Yukarı Şehir'in zamanı izlenir. Bileğinizde otuz saniye kaldı.
+
+🤝 Tefeciye gidip borca mı gireceksiniz?
+⌚ Yoksa uyuyan adamın bileğinden zaman mı alacaksınız?
+Hangisini seçiyorsunuz, neden? Fikrinizi yorumlara yazın 👇 Çoğunluğun seçimi Bölüm 2'de.
+
+▶️ Devamı yayında: "Dijital Nabız · Bölüm 2: Bir Gün" çoğunluğun seçimiyle başlıyor.
+🔔 Yeni bölümleri kaçırmamak için abone olun ve bildirimleri açın: @animasyonsinemasiyt
+
+⚠️ "Dijital Nabız" gerçek bir olay değildir; kurgusal bir bilim kurgu gerilim serisidir. Zamana Karşı (In Time, 2011) filminin fikrinden esinlenildi; hikâye ve karakterler özgündür.
+
+Bu videoda: koldaki sayaç · zamanın para olduğu şehir · son 3 dakika · zaman hırsızlığı · parmak morlukları · kayıp kardeş · kardeşin notu · tefeci · zaman borcu · Alt Şehir · Yukarı Şehir · uyuyan adam · altmış yıl · neon şehir · yağmur · distopya · bilim kurgu · POV · interaktif hikaye · seçimli hikaye · seçim sizin
+
+#Shorts #DijitalNabız #Distopya #BilimKurgu #POV #GerilimHikaye #Animasyon #İnteraktifHikaye #animasyonsinemasi
+
+
+👍 Videoyu beğenmeyi,
+💬 Yorum yapmayı,
+🔔 Bildirimleri açmayı
+ve
+📌 Kanalımıza abone olmayı unutmayın!
 ```
 
-## 3. YouTube Etiketleri (Tags)
-gerilim, animasyon, türkçe animasyon, interaktif hikaye, seçimli hikaye, sen seç, bilim kurgu, distopya, zaman para, zamana karşı, in time, koldaki sayaç, son 3 dakika, tefeci, kardeş, yağmurlu şehir, neon şehir, son sığınak, dijital nabız, dijital nabız bölüm 1
+## 3. YouTube Etiketleri (Tags) · virgülle ayrılmış, YouTube sayacıyla ~482/500
+```
+dijital nabız, dijital nabız bölüm 1, interaktif hikaye, seçimli hikaye, sen seç, gerilim, gerilim hikayesi, bilim kurgu, bilim kurgu animasyon, distopya, distopya hikayesi, zaman para, zamanın para olduğu dünya, zamana karşı, zamana karşı filmi, in time, koldaki sayaç, son 3 dakika, zaman hırsızı, tefeci, kayıp kardeş, pov, pov animasyon, animasyon, türkçe animasyon, animasyon dizi, kısa animasyon, kısa film, neon şehir, yağmurlu şehir, animasyon sineması
+```
 
 ## 4. Instagram Reels Caption
 ```
@@ -34,49 +57,52 @@ Uyurken biri bileğinizi kavrayıp zamanınızı çekmiş: kardeşiniz.
 "Altıda dönüp geri vereceğim" yazmış. Saat dokuza geliyor.
 Köşede tefeci bekliyor. Karşı durakta, kolunda altmış yıl olan biri uyuyor.
 
-1 · Tefeciye gidin 🤝   2 · Uyuyandan alın ⌚
-Yorumlara yazın, çoğunluğun seçimi Bölüm 2'de!
-Dijital Nabız · Bölüm 1 | İnteraktif gerilim animasyon dizisi
-2. bölüm için takip edin: @sonsiginak
+Tefeciye gidin 🤝 ya da uyuyandan alın ⌚
+Hangisi, neden? Yorumlara yazın; çoğunluğun seçimi Bölüm 2'de!
+Dijital Nabız · Bölüm 1 | POV bilim kurgu gerilim animasyon dizisi
+2. bölüm için takip edin: @animasyonsinemasiyt
 
-#dijitalnabız #zamanakarşı #animasyon #gerilim #sonsiginak
+#dijitalnabız #distopya #bilimkurgu #animasyon #animasyonsinemasi
 ```
 
 **TikTok için kısa hâli:**
 ```
-Dijital Nabız · Bölüm 1 ⏳ Kolunuzda 30 saniye kaldı. Tefeciye mi gidersiniz, uyuyandan mı alırsınız? 1 mi 2 mi? 👇 Çoğunluğun seçimi Bölüm 2'de!
-#dijitalnabız #zamanakarşı #animasyon #gerilim #sonsiginak
+Dijital Nabız · Bölüm 1 ⏳ Kolunuzda 30 saniye kaldı. Tefeciye mi gidersiniz, uyuyandan mı alırsınız? Neden? 👇 Çoğunluğun seçimi Bölüm 2'de!
+#dijitalnabız #distopya #bilimkurgu #animasyon #animasyonsinemasi
 ```
 
 ## 5. Instagram Hashtag Grubu
-#dijitalnabız #zamanakarşı #animasyon #gerilim #sonsiginak
+#dijitalnabız #distopya #bilimkurgu #animasyon #animasyonsinemasi
 
 ## 6. Ana Anahtar Kelimeler (SEO)
-- zamanın para olduğu dünya
-- zamana karşı filmi gibi hikaye
-- interaktif hikaye seçimli
-- türkçe gerilim animasyonu
-- kolundaki sayaç bitince
-- distopya kısa animasyon
+- zamanın para olduğu dünya hikayesi
+- zamana karşı filmi gibi animasyon
+- koldaki sayaç bitince
 - son 3 dakika hikayesi
+- interaktif hikaye seçimli
+- pov bilim kurgu animasyon
+- türkçe gerilim animasyonu
 
 ## 7. Kapak
-Bu klasördeki `01-saat-bolum-1-kapak.png` animasyon tarzında ve bu bölüme özel:
-- Yağmurlu kavşakta SEN, korkuyla açılmış gözler.
-- Kırmızı yanan bileğinde `00:00:30`.
-- Arkada solda tefecinin kırmızı kapısı, sağda durakta uyuyan beyaz paltolu adam (bulanık).
+Yüklenecek kapak bu klasördeki `01-saat-bolum-1-kapak-pov.png`. POV olarak, bu bölüme özel:
+- Kadrajın altından uzanan iki kolunuz çapraz duruyor; kırmızı yanan bileğinizde `00:00:30`.
+- Arkada yağmurlu kavşak (bulanık): solda tefecinin kırmızı neonlu kapısı ve bordo paltolu tefeci, sağda durakta beyaz paltolu, mavi atkılı uyuyan adam.
 
 | Öğe | Metin |
 |---|---|
+| Marka | "ANİMASYON SİNEMASI" |
 | Rozet | "DİJİTAL NABIZ · BÖLÜM 1" |
 | Başlık | "ÜÇ DAKİKANIZ VAR" |
 | Alt satır | "Kardeşiniz zamanınızı aldı. Dönmedi." |
-| Vurgu rengi | Alarm kırmızısı (DAKİKANIZ) |
+| Filigran | "@animasyonsinemasiyt" |
+| Vurgu rengi | Alarm kırmızısı (bilekteki sayaç) |
 
-Kaynak: `video-kaynak\kapaklar\01-saat-bolum-1-kapak.html` + `-arkaplan.jpg` (`video-kaynak\b1\son.js` → `kapakCiz(1)`).
+Kaynak: `video-kaynak\kapaklar\01-saat-bolum-1-pov-kapak.html` + `01-saat-bolum-1-pov-arkaplan.png` (ilk yayınlanan kapağın eski yazıları silinmiş hâli; orijinali `01-saat-bolum-1-pov-orijinal.jpg`).
 
-## 8. Sabitlenecek İlk Yorum = Oylama
-"1 · Tefeciye mi gidersiniz 🤝 yoksa 2 · uyuyandan mı alırsınız ⌚? Oylama [gün/saat]'te kapanıyor. Çoğunluk ne derse Bölüm 2 öyle başlayacak!"
+Dış kamera alternatifi: `01-saat-bolum-1-kapak.png` (kaynak `video-kaynak\kapaklar\01-saat-bolum-1-kapak.html`, `video-kaynak\b1\son.js` → `kapakCiz(1)`).
+
+## 8. Sabitlenecek İlk Yorum
+"Tefeciye mi gidersiniz 🤝 yoksa uyuyandan mı alırsınız ⌚? Hangisini seçiyorsunuz, neden? ⏳ Çoğunluk ne seçti, Bölüm 2'de izleyin!"
 
 ## 9. Instagram Hikâye Anketi
 Soru: "30 saniyeniz kaldı. Ne yapıyorsunuz?" · Seçenekler: "🤝 TEFECİYE GİT" / "⌚ UYUYANDAN AL"

@@ -1,0 +1,9 @@
+# GitHub'a yalnizca kurallar ve metinler (.md) gider.
+# Videolar, kapaklar, kod ve node_modules bilgisayarda kalir.
+*
+!*/
+node_modules/
+gecici/
+onizleme/
+!*.md
+!.gitignore
